@@ -1,2 +1,3 @@
-2025/06/19-18:40:55.030 6960 Creating DB D:/COLLIDER/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/06/19-18:40:55.092 6960 Reusing MANIFEST D:/COLLIDER/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/06/23-13:34:47.345 82e8 Reusing MANIFEST D:/COLLIDER/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/06/23-13:34:47.346 82e8 Recovering log #3
+2025/06/23-13:34:47.347 82e8 Reusing old log D:/COLLIDER/Saved/webcache_4430\Local Storage\leveldb/000003.log 
